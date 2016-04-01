@@ -1,5 +1,7 @@
 logstash-easy
 =============
+[![PyPI](https://img.shields.io/pypi/dm/logstash-easy.svg)](https://pypi.python.org/pypi/logstash-easy)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Fatal1ty/logstash_easy/master/LICENSE)
 
 Very easy to use Logstash logging handler.
 
