@@ -11,6 +11,7 @@ setup(
         'Environment :: Console',
         'Programming Language :: Python',
     ],
+    license='MIT',
     author='Alexander Tikhonov',
     author_email='random.gauss@gmail.com',
     url='https://github.com/Fatal1ty/logstash_easy',
