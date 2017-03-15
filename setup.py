@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='logstash-easy',
-    version='0.5',
+    version='0.5.1',
     description='Very easy to use Logstash logging handler',
     long_description=open('README.rst').read(),
     platforms='all',
