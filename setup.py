@@ -11,7 +11,7 @@ setup(
     license='MIT',
     author='Alexander Tikhonov',
     author_email='random.gauss@gmail.com',
-    url='https://github.com/Fatal1ty/logstash_easy',
+    url='https://github.com/Fatal1ty/logstash-easy',
     classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Environment :: Console',
