@@ -1,16 +1,13 @@
 logstash-easy
 =============
 
-.. image:: https://img.shields.io/pypi/dm/logstash-easy.svg?maxAge=2592000
+.. image:: https://img.shields.io/pypi/v/logstash-easy.svg
    :target: https://pypi.python.org/pypi/logstash-easy
 
-.. image:: https://img.shields.io/pypi/v/logstash-easy.svg?maxAge=2592000
+.. image:: https://img.shields.io/pypi/pyversions/logstash-easy.svg
    :target: https://pypi.python.org/pypi/logstash-easy
 
-.. image:: https://img.shields.io/pypi/pyversions/logstash-easy.svg?maxAge=2592000
-   :target: https://pypi.python.org/pypi/logstash-easy
-
-.. image:: https://img.shields.io/badge/license-MIT-blue.svg?maxAge=2592000
+.. image:: https://img.shields.io/badge/license-MIT-blue.svg
    :target: https://raw.githubusercontent.com/Fatal1ty/logstash_easy/master/LICENSE
 
 Very easy to use Logstash logging handler.
