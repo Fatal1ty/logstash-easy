@@ -1,6 +1,10 @@
 logstash-easy
 =============
 
+.. image:: https://requires.io/github/Fatal1ty/logstash-easy/requirements.svg?branch=master
+   :target: https://requires.io/github/Fatal1ty/logstash-easy/requirements/?branch=master
+   :alt: Requirements Status
+
 .. image:: https://img.shields.io/pypi/v/logstash-easy.svg
    :target: https://pypi.python.org/pypi/logstash-easy
 
